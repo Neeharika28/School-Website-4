@@ -1,0 +1,109 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+
+#ner {
+    position: sticky;
+    z-index: 99999;
+    top: 0;
+}
+
+iframe {
+    width: 900px;
+    height: 600px;
+}
+
+marquee {
+    font-size: 45px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#details img {
+    width: 350px;
+    height: 350px;
+}
+
+h3,
+h4 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 30px;
+}
+
+p {
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+
+img {
+    width: 350px !important;
+    height: 250px !important;
+}
+
+#achievmentsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+    color: #ff7700;
+}
+
+.movie_text span {
+    color: #ff7700
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel_mainDiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7
+}
+
+.travel_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+
+.travel_mainDiv hr {
+    width: 100%;
+}
+
+.travel_mainDiv h5,
+travel_mainDiv p {
+    margin-left: 20px;
+}
+
+.page-header {
+    font-family: 'Antic Slab', serif;
+}
+
+h5 {
+    font-size: 35px;
+    font-family: 'Satisfy', cursive;
+}
+
+#Heads{
+margin-top: 50px;
+}
+#whatsnewl,.heads_li{
+    text-align: center !important;
+}
+#Alumni{
+    margin-top: 50px;
+}
